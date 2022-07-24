@@ -1,5 +1,5 @@
 # Math3D
-Small euclidean space math library including quaternions and homogeneous matrices based on MathNet.Numerics.
+Small euclidean space math library including quaternions and homogeneous matrices.
 
 Types:
 - Vector3D
@@ -9,3 +9,6 @@ Types:
 - Matrix4D
 - AxisAngle
 - EulerAngles
+
+## Requires
+- MathNet.Numerics
